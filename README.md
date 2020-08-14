@@ -70,7 +70,7 @@ A construção dessa aplicação foi iniciada na trilha Booster da Next Level We
 
 ## 🔥 Como utilizar
 <p align="justify"'>
-Para clonar e executar este aplicativo, você precisará do Git , Node.js + yarn, ReactJS React Native18 (Expo) instalado no seu computador e caso deseje testa a aplicação mobile no seu celular faça o download do aplicativo do Expo.
+Para clonar e executar este aplicativo, você precisará do Git , Node.js + yarn, ReactJS e React Native + (Expo) instalado no seu computador e caso deseje testa a aplicação mobile no seu celular faça o download do aplicativo do Expo.
 </p>
 
 #### Clone este repositório
