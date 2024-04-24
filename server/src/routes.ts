@@ -38,6 +38,3 @@ routes.post(
 );
 
 export default routes;
-
-// Service Pattern
-// Repository Pattern 
