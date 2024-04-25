@@ -43,30 +43,29 @@ A construção dessa aplicação foi iniciada na trilha Booster da Next Level We
 - [Express][10]
 - [CORS][11]
 - [KnexJS][12]
-- [SQLite3][13]
-- [ts-node][14]
-- [Multer][15]
-- [Celebrate][16]
-- [Joi][17]
-#### Mobile ([React Native][18] + [TypeScript][2])
-- [Expo][19]
-- [Expo Google Fonts][20]
-- [React Navigation][21]
-- [React Native Maps][22]
-- [Expo Constants][23]
-- [React Native SVG][24]
-- [Axios][25]
-- [Expo Location][26]
-- [Expo Mail Composer][27]
+- [PostgreSQL][13]
+- [Multer][14]
+- [Celebrate][15]
+- [Joi][16]
+#### Mobile ([React Native][17] + [TypeScript][2])
+- [Expo][18]
+- [Expo Google Fonts][19]
+- [React Navigation][20]
+- [React Native Maps][21]
+- [Expo Constants][22]
+- [React Native SVG][23]
+- [Axios][24]
+- [Expo Location][25]
+- [Expo Mail Composer][26]
 ## 🔨 Ferramentas
-- [Visual Studio Code][28]
-- [Figma][29]
-- [Insomnia][30]
-- [Google Fonts][31]
-- [IBGE API][32]
-- [Leaflet][33]
-- [Feather Icons][34]
-- [Font Awesome][35]
+- [Visual Studio Code][27]
+- [Figma][28]
+- [Insomnia][29]
+- [Google Fonts][30]
+- [IBGE API][31]
+- [Leaflet][32]
+- [Feather Icons][33]
+- [Font Awesome][34]
 
 ## 🔥 Como utilizar
 <p align="justify"'>
@@ -155,29 +154,28 @@ Feito com ☕&❤️ por <a href="https://www.linkedin.com/in/luan-guilherme-dan
 [10]: https://expressjs.com/pt-br/
 [11]: https://expressjs.com/en/resources/middleware/cors.html
 [12]: https://knexjs.org/
-[13]: https://github.com/mapbox/node-sqlite3
-[14]: https://github.com/TypeStrong/ts-node
-[15]: https://github.com/expressjs/multer
-[16]: https://github.com/arb/celebrate
-[17]: https://github.com/hapijs/joi
-[18]: https://www.reactnative.com/
-[19]: https://expo.io/
-[20]: https://github.com/expo/google-fonts
-[21]: https://reactnavigation.org/
-[22]: https://github.com/react-native-community/react-native-maps
-[23]: https://docs.expo.io/versions/latest/sdk/constants/
-[24]: https://github.com/react-native-community/react-native-svg
-[25]: https://github.com/axios/axios
-[26]: https://docs.expo.io/versions/latest/sdk/location/
-[27]: https://docs.expo.io/versions/latest/sdk/mail-composer/
-[28]: https://code.visualstudio.com/
-[29]: https://www.figma.com/
-[30]: https://insomnia.rest/
-[31]: https://fonts.google.com/
-[32]: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1
-[33]: https://leafletjs.com/
-[34]: https://feathericons.com/
-[35]: https://fontawesome.com/
-[36]: https://yarnpkg.com/
-[37]: https://www.npmjs.com/
+[13]: https://www.postgresql.org/
+[14]: https://github.com/expressjs/multer
+[15]: https://github.com/arb/celebrate
+[16]: https://github.com/hapijs/joi
+[17]: https://www.reactnative.com/
+[18]: https://expo.io/
+[19]: https://github.com/expo/google-fonts
+[20]: https://reactnavigation.org/
+[21]: https://github.com/react-native-community/react-native-maps
+[22]: https://docs.expo.io/versions/latest/sdk/constants/
+[23]: https://github.com/react-native-community/react-native-svg
+[24]: https://github.com/axios/axios
+[25]: https://docs.expo.io/versions/latest/sdk/location/
+[26]: https://docs.expo.io/versions/latest/sdk/mail-composer/
+[27]: https://code.visualstudio.com/
+[28]: https://www.figma.com/
+[29]: https://insomnia.rest/
+[30]: https://fonts.google.com/
+[31]: https://servicodados.ibge.gov.br/api/docs/localidades?versao=1
+[32]: https://leafletjs.com/
+[33]: https://feathericons.com/
+[34]: https://fontawesome.com/
+[35]: https://yarnpkg.com/
+[36]: https://www.npmjs.com/
 
